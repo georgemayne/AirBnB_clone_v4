@@ -156,6 +156,5 @@ No known bugs at this time.
 ## Authors
 George Egyir Mayne - [Github](https://github.com/georgemayne) / [Twitter](https://twitter.com/nawtinana)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
